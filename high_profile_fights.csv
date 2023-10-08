@@ -1,0 +1,153 @@
+date,opponent_1,opponent_2,opponent_1_rounds_boxed,opponent_2_rounds_boxed,opponent_1_round_ko_percentage,opponent_2_round_ko_percentage,verdict
+8/31/2019,Vasyl Lomachenko,Luke Campbell,119,130,8.4,12.31,Lomachenko won via UD in round 12
+9/19/2019,Orlando Fiordigiglio,Sam Eggington,200,177,6.5,8.47,Eggington won via KO in round 2
+10/5/2019,Gennady Golovkin,Sergiy Derevyanchenko,200,81,17.5,12.35,Golovkin won via UD in round 12
+10/12/2019,Chazz Witherspoon,Oleksandr Usyk,182,125,15.93,9.6,Usyk won via RTD in round 7
+9/27/2019,Ebenezer Tetteh,Daniel Dubois,38,39,23.68,30.77,Dubois won via TKO in round 1
+9/28/2019,Shawn Porter,Errol Spence Jr,219,108,7.76,19.44,Spence Jr won via SD in round 12
+9/13/2019,Zaur Abdullaev,Devin Haney,60,110,8.33,12.73,Haney won via RTD in round 4
+9/14/2019,Tyson Fury,Otto Wallin,174,90,11.49,14.44,Fury won via UD in round 12
+8/31/2019,Alexander Povetkin,Hughie Fury,231,130,10.39,10,Povetkin won via UD in round 12
+10/18/2019,Artur Beterbiev,Oleksandr Gvozdyk,52,88,26.92,15.91,Beterbiev won via TKO in round 10
+10/26/2019,Regis Prograis,Josh Taylor,98,79,20.41,16.46,Taylor won via MD in round 12
+10/19/2019,Ted Cheesman,Scott Fitzgerald,103,59,8.74,15.25,Fitzgerald won via UD in round 12
+10/26/2019,Dereck Chisora,David Price,252,105,8.73,18.1,Chisora won via TKO in round 4
+11/9/2019,Olajide William Olatunji,Logan Paul,0,0,0,0,Olatunji won via SD in round 6
+11/22/2019,Kieran Gething,Jeff Ofori,74,,2.7,,Draw - 10 round SD decision
+11/2/2019,Sergey Kovalev,Saul Alvarez,173,391,16.76,8.95,Alvarez won via KO in round 11
+11/22/1986,Mike Tyson,Trevor Berbick,74,253,33.78,,Tyson won via TKO in round 2
+10/30/1974,George Foreman,Muhammad Ali,120,365,30.83,,Ali won via KO in round 8
+7/26/1986,Mike Tyson,Marvis Frazier,61,106,36.07,,Tyson won via TKO in round 1
+4/6/1987,Sugar Ray Leonard,Marvin Hagler,244,386,9.84,13.47,Leonard won via SD in round 12
+6/27/1988,Mike Tyson,Michael Spinks,119,225,25.21,9.33,Tyson won via KO in round 1
+12/5/2008,Raul Pinzon,Saul Alvarez,60,129,25,11.63,Alvarez won via TKO in round 1
+4/20/2002,Jose Luis Castillo,Floyd Mayweather Jr,230,154,17.83,12.99,Mayweather Jr won via UD in round 12
+12/6/2008,Bela Gyongyosi,Tyson Fury,56,,1.79,,Fury won via TKO in round 1
+3/16/1996,Frank Bruno,Mike Tyson,167,161,22.75,22.98,Tyson won via TKO in round 3
+2/28/2009,Daniil Peretyatko,Tyson Fury,190,,,50,Fury won via RTD in round 2
+1/17/2009,Saul Alvarez,Antonio Fitch,130,42,12.31,23.81,Alvarez won via TKO in round 1
+4/11/2009,Mathew Ellis,Tyson Fury,113,,,40,Fury won via KO in round 1
+3/6/2009,Deontay Wilder,Shannon Gray,2,4,50,,Wilder won via TKO in round 1
+4/24/2009,Joseph Rabotte,Deontay Wilder,18,,,75,Wilder won via KO in round 1
+5/23/2009,Scott Belshaw,Tyson Fury,38,11,18.42,45.45,Fury won via TKO in round 2
+6/26/2009,Deontay Wilder,Kelsey Arnold,6,19,83.33,,Wilder won via KO in round 1
+8/14/2009,Travis Allen,Deontay Wilder,18,7,,85.71,Wilder won via TKO in round 1
+9/15/2009,Carlos Leonardo Herrera,Saul Alvarez,116,163,6.9,12.88,Alvarez won via TKO in round 1
+3/5/2010,Tyson Fury,Hans-Joerg Blasko,32,34,21.88,17.65,Fury won via TKO in round 1
+5/26/2012,Jesse Oltmanns,Deontay Wilder,40,35,17.5,60,Wilder won via TKO in round 1
+11/26/2011,Deontay Wilder,David Long,30,46,63.33,,Wilder won via KO in round 1
+9/8/2012,Damon Mccreary,Deontay Wilder,41,40,24.39,60,Wilder won via KO in round 2
+10/5/2013,Emanuele Leo,Anthony Joshua,31,,9.68,,Joshua won via TKO in round 1
+12/15/2012,Deontay Wilder,Kelvin Price,42,53,59.52,,Wilder won via KO in round 3
+10/26/2013,Paul Butlin,Anthony Joshua,167,,,100,Joshua won via TKO in round 2
+11/14/2013,Hrvoje Kisicek,Anthony Joshua,46,,,66.67,Joshua won via TKO in round 2
+11/24/2013,Andy Ruiz Jr,Tor Hamer,67,67,20.9,20.9,Ruiz Jr won via RTD in round 3
+3/1/2014,Hector Alfredo Avila,Anthony Joshua,178,,,57.14,Joshua won via KO in round 1
+2/1/2014,Dorian Darch,Anthony Joshua,33,,,60,Joshua won via TKO in round 2
+5/31/2014,Matt Legg,Anthony Joshua,27,8,,62.5,Joshua won via KO in round 1
+7/12/2014,Matt Skelton,Anthony Joshua,197,,,66.67,Joshua won via TKO in round 2
+9/13/2014,Konstantin Airich,Anthony Joshua,153,,,63.64,Joshua won via TKO in round 3
+10/11/2014,Denis Bakhtov,Anthony Joshua,264,,,57.14,Joshua won via TKO in round 2
+11/22/2014,Michael Sprott,Anthony Joshua,357,,,56.25,Joshua won via TKO in round 1
+4/4/2015,Jason Gavern,Anthony Joshua,267,,,58.82,Joshua won via KO in round 3
+5/30/2015,Kevin Johnson,Anthony Joshua,227,,,54.55,Joshua won via TKO in round 2
+5/9/2015,Raphael Zumbano Love,Anthony Joshua,230,,,55,Joshua won via TKO in round 2
+5/9/2015,Saul Alvarez,James Kirkland,310,110,10,25.45,Alvarez won via KO in round 3
+9/12/2015,Gary Cornish,Anthony Joshua,93,,,54.17,Joshua won via TKO in round 1
+11/7/2015,Callum Smith,Rocky Fielding,64,88,18.75,13.64,Smith won via TKO in round 1
+9/26/2015,Andy Ruiz Jr,Joell Godfrey,83,178,20.48,,Ruiz Jr won via UD in round 8
+11/28/2015,Tyson Fury,Wladimir Klitschko,134,346,13.43,15.32,Fury won via UD in round 12
+12/12/2015,Dillian Whyte,Anthony Joshua,44,25,29.55,56,Joshua won via TKO in round 7
+8/20/2016,Shakur Stevenson,Robeisy Ramirez Carrazana,0,0,0,0,Unknown Result
+5/7/2016,Amir Khan,Saul Alvarez,203,325,9.36,9.85,Alvarez won via KO in round 6
+4/23/2016,Dominic Wade,Gennady Golovkin,60,151,20,20.53,Golovkin won via KO in round 2
+6/25/2016,Anthony Joshua,Dominic Breazeale,34,57,47.06,26.32,Joshua won via TKO in round 7
+8/21/2016,Robeisy Ramirez Carrazana,Tony Yoka,3,,0,0,Unknown Result
+4/9/2016,Charles Martin,Anthony Joshua,74,32,28.38,46.88,Joshua won via KO in round 2
+8/27/2016,Robert Guerrero,David Emanuel Peralta,270,116,6.67,12.07,Peralta won via SD in round 12
+9/10/2016,Kell Brook,Gennady Golovkin,179,153,13.97,20.92,Golovkin won via TKO in round 5
+10/1/2016,Alexander Dimitrenko,Joseph Parker,219,84,10.96,20.24,Parker won via KO in round 3
+9/24/2016,Jorge Linares,Anthony Crolla,244,227,11.07,5.73,Linares won via UD in round 12
+10/15/2016,Bj Flores,Tony Bellew,178,197,11.24,8.63,Bellew won via TKO in round 3
+9/17/2016,Saul Alvarez,Liam Smith,331,126,9.97,10.32,Alvarez won via KO in round 9
+11/19/2016,Sergey Kovalev,Andre Ward,114,218,22.81,6.88,Ward won via UD in round 12
+12/10/2016,Eric Molina,Anthony Joshua,119,41,15.97,41.46,Joshua won via TKO in round 3
+12/10/2016,Andy Ruiz Jr,Joseph Parker,116,87,16.38,20.69,Parker won via MD in round 12
+10/1/2016,Juergen Braehmer,Nathan Cleverly,281,205,12.1,7.32,Cleverly won via RTD in round 6
+2/25/2017,Deontay Wilder,Gerald Washington,107,78,33.64,15.38,Wilder won via TKO in round 5
+4/8/2017,Daniel Dubois,Marcus Kelly,0,0,0,0,Dubois won via TKO in round 1
+4/22/2017,Daniel Dubois,Blaise Mendouo,1,,100,,Dubois won via TKO in round 2
+4/22/2017,Tyrone Nurse,Joe Hughes,226,116,3.1,5.17,Draw - 12 round SD decision
+5/20/2017,David Howe,Daniel Dubois,44,,,75,Dubois won via KO in round 1
+4/29/2017,Wladimir Klitschko,Anthony Joshua,358,,14.8,40.91,Joshua won via TKO in round 11
+9/16/2017,Aj Carter,Daniel Dubois,18,7,22.22,71.43,Dubois won via TKO in round 1
+7/8/2017,Mauricio Barragan,Daniel Dubois,51,,,80,Dubois won via KO in round 2
+8/26/2017,Floyd Mayweather Jr,Conor Mcgregor,387,,6.72,,Mayweather Jr won via TKO in round 10
+10/28/2017,Carlos Takam,Anthony Joshua,184,55,14.67,34.55,Joshua won via TKO in round 10
+9/23/2017,Jorge Linares,Luke Campbell,268,96,10.07,14.58,Linares won via SD in round 12
+9/16/2017,Saul Alvarez,Gennady Golovkin,352,170,9.66,19.41,Draw - 12 round SD decision
+12/9/2017,Dorian Darch,Daniel Dubois,39,,,75,Dubois won via TKO in round 2
+11/4/2017,Adrian Granados,Shawn Porter,145,183,8.28,9.29,Porter won via UD in round 12
+11/18/2017,Horacio Garcia,Carl Frampton,195,152,12.31,9.21,Frampton won via UD in round 10
+12/30/2017,Yoan Boyeaux,Naoya Inoue,162,88,12.35,13.64,Inoue won via TKO in round 3
+1/20/2018,Lamont Peterson,Errol Spence Jr,276,88,,21.59,Spence Jr won via RTD in round 7
+4/21/2018,Nonito Donaire,Carl Frampton,255,162,9.41,8.64,Frampton won via UD in round 12
+3/31/2018,David Price,Alexander Povetkin,77,219,22.08,10.5,Povetkin won via KO in round 5
+3/3/2018,Luis Ortiz,Deontay Wilder,122,113,19.67,33.63,Wilder won via TKO in round 10
+3/31/2018,Joseph Parker,Anthony Joshua,123,65,14.63,30.77,Joshua won via UD in round 12
+5/5/2018,Troy James,Luke Campbell,109,108,4.59,12.96,Campbell won via TKO in round 5
+5/5/2018,Vanes Martirosyan,Gennady Golovkin,224,182,9.38,18.13,Golovkin won via KO in round 2
+5/12/2018,Jorge Linares,Vasyl Lomachenko,292,93,9.25,8.6,Lomachenko won via TKO in round 10
+5/19/2018,Lee Selby,Josh Warrington,207,193,4.35,3.11,Warrington won via SD in round 12
+5/25/2018,Jamie Mcdonnell,Naoya Inoue,245,91,5.31,14.29,Inoue won via TKO in round 1
+6/9/2018,Sefer Seferi,Tyson Fury,69,146,26.09,12.33,Fury won via RTD in round 4
+6/16/2018,Errol Spence Jr,Carlos Ocampo,95,120,21.05,10.83,Spence Jr won via KO in round 1
+9/8/2018,Danny Garcia,Shawn Porter,227,195,8.81,8.72,Porter won via UD in round 12
+7/28/2018,Dillian Whyte,Joseph Parker,110,135,15.45,13.33,Whyte won via UD in round 12
+8/18/2018,Carl Frampton,Luke Jackson,174,,8.05,17.39,Frampton won via TKO in round 9
+9/22/2018,Alexander Povetkin,Anthony Joshua,224,77,10.71,25.97,Joshua won via TKO in round 7
+9/15/2018,Saul Alvarez,Gennady Golovkin,364,184,9.34,18.48,Alvarez won via MD in round 12
+9/22/2018,Yvan Mendy,Luke Campbell,296,113,6.42,13.27,Campbell won via UD in round 12
+10/7/2018,Juan Carlos Payano,Naoya Inoue,137,92,6.57,15.22,Inoue won via KO in round 1
+10/27/2018,Tony Dixon,Kieran Gething,32,38,3.13,5.26,Dixon won via PTS in round 10
+12/1/2018,Deontay Wilder,Tyson Fury,123,160,31.71,11.88,Draw - 12 round SD decision
+12/22/2018,David Price,Tom Little,86,45,19.77,,Price won via TKO in round 4
+12/15/2018,Saul Alvarez,Rocky Fielding,376,129,9.04,11.63,Alvarez won via TKO in round 3
+1/19/2019,Manny Pacquiao,Adrien Broner,462,223,8.44,10.76,Pacquiao won via UD in round 12
+12/22/2018,Josh Warrington,Carl Frampton,205,183,2.93,8.2,Warrington won via UD in round 12
+2/2/2019,Henry Janes,Kieran Gething,121,48,,4.17,Gething won via PTS in round 10
+2/23/2019,James Degale,Chris Eubank Jr,198,172,7.58,12.21,Eubank Jr won via UD in round 12
+3/8/2019,Razvan Cojanu,Daniel Dubois,93,28,9.68,32.14,Dubois won via KO in round 2
+3/9/2019,Yordenis Ugas,Shawn Porter,153,207,7.19,8.21,Porter won via SD in round 12
+3/15/2019,Adrian Young,Luke Campbell,93,125,16.13,12,Campbell won via TKO in round 5
+3/16/2019,J'leon Love,David Benavidez,166,77,7.83,23.38,Benavidez won via KO in round 2
+3/16/2019,Mikey Garcia,Errol Spence Jr,214,96,14.02,21.88,Spence Jr won via UD in round 12
+3/30/2019,Kash Ali,David Price,26,90,,20,Price won via DQ in round 5
+3/30/2019,Robbie Davies Jnr,Joe Hughes,101,158,11.88,4.43,Davies Jnr won via UD in round 12
+3/30/2019,Anthony Fowler,Scott Fitzgerald,35,49,25.71,18.37,Fitzgerald won via SD in round 10
+4/20/2019,Alexander Dimitrenko,Andy Ruiz Jr,244,139,10.66,14.39,Ruiz Jr won via RTD in round 5
+5/4/2019,Daniel Jacobs,Saul Alvarez,157,379,18.47,9.23,Alvarez won via UD in round 12
+5/18/2019,Deontay Wilder,Dominic Breazeale,135,86,28.89,20.93,Wilder won via KO in round 1
+6/1/2019,Craig Woodruff,Kieran Gething,60,64,3.33,3.13,Gething won via PTS in round 10
+6/1/2019,Andy Ruiz Jr,Anthony Joshua,144,84,14.58,25,Ruiz Jr won via TKO in round 7
+6/15/2019,Tyson Fury,Tom Schwarz,172,89,11.05,17.98,Fury won via TKO in round 2
+6/21/2019,Ted Cheesman,Kieron Conway,91,40,9.89,5,Draw - 12 round SD decision
+7/20/2019,Dillian Whyte,Oscar Rivas,133,107,13.53,16.82,Whyte won via UD in round 12
+6/15/2019,Kid Galahad,Josh Warrington,151,217,9.93,,Warrington won via SD in round 12
+8/17/2019,Vincent Feigenbutz,Cesar Nunez,130,77,20.77,7.79,Feigenbutz won via TKO in round 8
+8/24/2019,Sergey Kovalev,Anthony Yarde,162,51,17.28,33.33,Kovalev won via TKO in round 11
+11/23/2019,Luis Ortiz,Deontay Wilder,154,136,16.88,29.41,Wilder won via KO in round 7
+11/30/2019,Carl Frampton,Tyler Mccreary,195,77,7.69,9.09,Frampton won via UD in round 10
+11/23/2019,Callum Smith,John Ryder,122,190,15.57,8.42,Smith won via UD in round 12
+12/7/2019,Matt Korobov,Chris Eubank Jr,176,184,7.95,11.41,Eubank Jr won via TKO in round 2
+12/7/2019,Jermall Charlo,Dennis Hogan,140,226,15,,Charlo won via TKO in round 7
+12/7/2019,Andy Ruiz Jr,Anthony Joshua,151,91,14.57,23.08,Joshua won via UD in round 12
+12/21/2019,Kyotaro Fujimoto,Daniel Dubois,135,40,,32.5,Dubois won via KO in round 2
+12/12/2019,Joe Hughes,Sandor Martin,170,222,4.12,5.86,Martin won via UD in round 12
+2/14/2020,Francisco Fonseca,Ryan Garcia,48,59,10.42,27.12,Garcia won via KO in round 1
+2/29/2020,Jessie Vargas,Mikey Garcia,241,226,4.56,13.27,Garcia won via UD in round 12
+3/7/2020,Theophilus Tetteh,Anthony Fowler,147,65,6.12,13.85,Fowler won via TKO in round 1
+2/22/2020,Deontay Wilder,Tyson Fury,143,186,28.67,10.75,Fury won via TKO in round 7
+3/7/2020,Scott Quigg,Jono Carroll,200,122,13,,Carroll won via TKO in round 11
+8/29/2020,Joe Hughes,Sam Maxwell,182,,3.85,,Maxwell won via UD in round 10
+10/17/2020,Vasyl Lomachenko,Teofimo Lopez,131,58,7.63,18.97,Lopez won via UD in round 12
