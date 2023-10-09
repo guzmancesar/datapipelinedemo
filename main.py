@@ -50,7 +50,7 @@ def main():
 
     s3 = boto3.client('s3', aws_access_key_id=aws_access_key_id, aws_secret_access_key=aws_secret_access_key)
     df.write.mode("overwrite").parquet(f's3a://{s3_bucket}/{s3_path}')
-    print('i am here!!')
+    #print('i am here!!')
 
     # Stopping the Spark session
     spark.stop()
