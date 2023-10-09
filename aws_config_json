@@ -1,0 +1,7 @@
+//to be placed in root directory and grabbed by user 
+{
+    "aws_access_key_id": "INSERT ACCESS KEY ID HERE",
+    "aws_secret_access_key": "INSERT SECRET ACCESS KEY HERE",
+    "s3_bucket": "demodatapipelinecg96",
+    "s3_path": "demodatapipelinecg96/raw_boxers/raw_boxers_name"
+}
