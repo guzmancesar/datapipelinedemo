@@ -13,6 +13,7 @@ Steps
 1. Use pyspark to transform data before it hits storage (preprocessing)
 2. create s3 bucket for data
 3. assign permissions to an IAM user for the script to RWD s3 objects <- we are here
-4. Demonstrate ETL capabilities (TBD)
-5. Dashboarding (TBD)
+4. add unit tests
+5. Demonstrate ETL capabilities (TBD)
+6. Dashboarding (TBD)
 
