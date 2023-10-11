@@ -12,8 +12,12 @@ Requirements:
 Steps 
 1. Use pyspark to transform data before it hits storage (preprocessing)
 2. create s3 bucket for data
-3. assign permissions to an IAM user for the script to RWD s3 objects <- we are here
-4. add unit tests
-5. Demonstrate ETL capabilities (TBD)
-6. Dashboarding (TBD)
+3. assign permissions to an IAM user for the script to RWD s3 objects 
+4. place data in s3 bucket <- we are here as MVP
+5. dockerize script
+6. switch out csv for a dynamic dataset
+7. cron job
+9. add unit tests
+10. Demonstrate ETL capabilities (TBD)
+11. Dashboarding (TBD)
 
