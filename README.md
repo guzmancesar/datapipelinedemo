@@ -1,4 +1,8 @@
-Steps 
+- main.py needs to be modularized 
+- subdirectories to be added
+- see below for steps remaining
+
+##Steps 
 
 
 Requirements:
