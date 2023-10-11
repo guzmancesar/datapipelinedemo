@@ -1,5 +1,7 @@
 import boto3
 
+//Access keys reset on 10/11/23
+
 def check_s3_connection():
     # AWS credentials from your provided JSON
     aws_access_key_id = "INSERT KEY HERE"
