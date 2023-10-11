@@ -1,6 +1,7 @@
 import boto3
 
 //Access keys reset on 10/11/23
+//to do: use aws_config.json for credentials for this scrip
 
 def check_s3_connection():
     # AWS credentials from your provided JSON
