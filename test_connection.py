@@ -2,8 +2,8 @@ import boto3
 
 def check_s3_connection():
     # AWS credentials from your provided JSON
-    aws_access_key_id = "AKIAY2JI5GTFSPJPBHOM"
-    aws_secret_access_key = "wwCIkbtwyR60XgRWjzBVwrZv3OzmWEvfwVwikYZA"
+    aws_access_key_id = "INSERT KEY HERE"
+    aws_secret_access_key = "INSERT KEY HERE"
     s3_bucket = "demodatapipelinecg96"
     s3_path = "demodatapipelinecg96/"
 
